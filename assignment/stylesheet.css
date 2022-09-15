@@ -1,16 +1,19 @@
-header {
+.top {
     background-color: darkolivegreen;
     color:wheat;
     text-align: center;
 }
 
-main {
+.message {
     background-color: lightgrey;
 }
 
 body {
+    margin: 0px;
+}
+
+.all {
     background-image: url("record.png");
     background-repeat: round;
-    margin: 0px;
     padding: 1em;
 }
